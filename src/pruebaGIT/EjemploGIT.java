@@ -6,6 +6,7 @@ public class EjemploGIT {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo");
 		String nombre = "César";
+		int edad = 22;
 	}
 
 }

@@ -5,7 +5,8 @@ public class EjemploGIT {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo");
-		String nombre = "César";
+		String nombre = "Cesar";
+		System.out.println(nombre);
 	}
 
 }

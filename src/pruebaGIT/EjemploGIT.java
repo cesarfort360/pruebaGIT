@@ -6,7 +6,9 @@ public class EjemploGIT {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo");
 		String nombre = "Cesar";
-		System.out.println(nombre);
+		if(!nombre.isEmpty()) {
+			System.out.println(nombre);
+		}
 	}
 
 }
